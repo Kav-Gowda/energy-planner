@@ -98,4 +98,4 @@ energy-planner/
 
 ## Why I built this
 
-This isn't a generic AI demo. It's built around a real, underserved need, the kind of daily planning support that doesn't exist anywhere else in this form. The design decisions (plain language, no overwhelm, mandatory recovery buffers, personal history as context) all come directly from understanding how energy works differently for autistic people.
+This isn't a generic AI demo. It's built around a real need. The design decisions (plain language, no overwhelm, mandatory recovery buffers) all come directly from understanding how energy works differently for autistic people.
