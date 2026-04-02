@@ -8,7 +8,7 @@ A daily planning tool for autistic and sensory-sensitive people. You log what dr
 
 Autistic and sensory-sensitive people often hit hard walls of exhaustion after demanding activities like social situations, noisy environments, unexpected changes. Standard planners ignore this completely. EnergyPlanner doesn't.
 
-You rate each activity by how much it costs you (1–10). Over time it learns your patterns. When you plan the next day, it retrieves your own history to personalise the plan and it always builds in recovery buffers after high-cost activities.
+You rate each activity by how much it costs you (1-10). Over time it learns your patterns. When you plan the next day, it retrieves your own history to personalise the plan and it always builds in recovery buffers after high-cost activities.
 
 ---
 
