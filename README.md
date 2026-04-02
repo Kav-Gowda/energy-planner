@@ -46,7 +46,8 @@ You rate each activity by how much it costs you (1-10). Over time it learns your
 
 > Build tomorrow's plan and generate it
 
-![Plan Tomorrow tab](screenshots/plan_tomorrow1.png and screenshots/plan_tomorrow2.png)
+![Plan Tomorrow tab - building the list](screenshots/plan_tomorrow1.png)
+![Plan Tomorrow tab - generated plan](screenshots/plan_tomorrow2.png)
 
 > View your energy history and patterns
 
